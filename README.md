@@ -5,11 +5,11 @@ This is a facial recognition app built with python and opencv library.It will he
 # How it works
 
 Before starting we need to have certain dependencies/packages installed,namely:
-1.opencv
-2.pyttx3
-3.datetime
-4.numpy
-5.face-recognition
+1. opencv
+2. pyttx3
+3. datetime
+4. numpy
+5. face-recognition
 
 
 
