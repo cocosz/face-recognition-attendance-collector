@@ -1,15 +1,17 @@
-# Face-Recognition-Attendance-Collector
+# Facial-Recognition-Attendance-Collector
 
-This is a face recognition app built with python and opencv library.It will help to take automated attendance without any human intervention.
+This is a facial recognition app built with python and opencv library.It will help to take automated attendance without any human intervention.
  
 # How it works
 
 Before starting we need to have certain dependencies/packages installed,namely:
-1. opencv
-2. pyttx3
-3. datetime
-4. numpy
-5. face-recognition
+1.opencv
+2.pyttx3
+3.datetime
+4.numpy
+5.face-recognition
+
+
 
 You have to place an image of the people whose attendance you want to take. After that, you have run the command "python AttendanceProject.py"
 
